@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(#fff, #00ff9d);
+    padding: 16px;
+}
+
+.yosise {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 100px;
+    color: #be6b27;
+    position: relative;
+    left: -10px;
+    top: 350px;
+}
+
+.imgseñor {
+    width: 300px;
+    position: relative;
+    top: -200px;
+    right: -500px;
+}
+
+.bienvenida {
+    position: relative;
+    top: -550px;
+    right: -900px;
+    padding: 10px;
+    font-family: sans-serif;
+    background: #fff;
+    color: #be6b27;
+}
+
+.bienvenida:hover {
+    background-color: #1eff00;
+}
