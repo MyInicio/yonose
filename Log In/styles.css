@@ -1,0 +1,72 @@
+.iniciar__title {
+    font-family: sans-serif;
+    color: #7400b8;
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+.fondodescrip {
+    background: #9808d1;
+    width: 450px;
+    height: 540px;
+    border: 1px solid #000;
+    padding: 7px;
+    border-radius: 8px;
+    position: relative;
+    top: 50px;
+    left: 410px;
+    transition: border 0.2s ease-out;
+    margin-left: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+.info {
+    font-family: sans-serif;
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+    left: -1px;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.fondodescrip:hover {
+    border: 5px solid #000;
+}
+
+.descript {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.input__email {
+    padding: 10px;
+}
+
+.input__contraceña {
+    padding: 10px;
+}
+
+.enviar {
+    padding: 8px;
+    width: 80px;
+    position: relative;
+    top: 50px;
+    right: 196px;
+}
+
+.volver {
+    color: #fff;
+    text-decoration: none;
+    font-family: sans-serif;
+    position: relative;
+    top: 160px;
+    left: 60px;
+}
+
+h2 {
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 18px;
+}
